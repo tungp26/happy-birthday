@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<html lang="vi">
 <head>
   <meta charset="UTF-8">
   <title>Đi ăn với anh nha?</title>
@@ -91,7 +92,7 @@
 
   <div id="catSection">
     <img src="chup.jpg" alt="Con Chụp giận dữ">
-    <p>Con Chụp tức giận vì sự curious của em 😾</p>
+    <p>Con Chúp tức giận vì sự curious của em 😾</p>
   </div>
 
   <script>
